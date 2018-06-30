@@ -1,0 +1,14 @@
+uuid: 1540667e-aa10-414f-849d-693d6907f832
+name: pantheon-soonerwarn
+mail: jason.mosley@domo.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

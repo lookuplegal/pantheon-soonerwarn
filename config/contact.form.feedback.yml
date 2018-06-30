@@ -1,0 +1,14 @@
+uuid: 7066500a-1ce1-4abc-814a-0c36c3cb6c57
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jason.mosley@domo.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
